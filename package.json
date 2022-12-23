@@ -1,0 +1,14 @@
+{
+    "name": "as-lunatic-transform",
+    "version": "0.0.0",
+    "description": "Transform for as-lunatic",
+    "main": "index.js",
+    "type": "module",
+    "repository": "https://github.com/lunatic-solutions/as-lunatic-transform",
+    "author": "CountBleck <Mr.YouKnowWhoIAm@protonmail.com>",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "assemblyscript": "^0.25.2"
+    }
+}
